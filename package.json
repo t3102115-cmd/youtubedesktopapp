@@ -1,0 +1,14 @@
+{
+  "name": "Youtube",
+  "version": "1.0.0",
+  "description": "Simple YouTube player as a desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "22.3.27",
+    "electron-packager": "^17.1.2"
+  }
+}
